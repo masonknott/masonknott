@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm a Web Developer! 👋</h1>
+<h1 align="center">Hi there, I'm Mason!👋</h1>
+<h1 align="center">I specialise in web development💻</h1>
 
 <p align="center">
 I specialize in creating stunning and efficient digital experiences. With a passion for both aesthetics and functionality, I blend the art of design with the science of programming to deliver an engaging user experience.
