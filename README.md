@@ -1,9 +1,6 @@
-<h1 align="center">Hi there, I'm Mason!👋</h1>
-<h1 align="center">I specialise in web development💻</h1>
-
+<h1 align="center">Hi there!👋</h1>
 <p align="center">
-I specialize in creating stunning and efficient digital experiences. I enjoy building things and chipping away at ideas until they come together to create something special.
-</p>
+I’m Mason from Manchester UK. I have a background in Computer Science and attended university to study it. I specialise in web development and have experience with front/backend development, databases, CMS management + customisation and other things code related. Most importantly though, I’m pretty good at just chipping away at something until I figure out how to get it working.</p>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 <p align="center">I love to work with a variety of technologies across the stack to bring ideas to life.</p>
