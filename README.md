@@ -2,7 +2,7 @@
 <h1 align="center">I specialise in web development💻</h1>
 
 <p align="center">
-I specialize in creating stunning and efficient digital experiences. With a passion for both aesthetics and functionality, I blend the art of design with the science of programming to deliver an engaging user experience.
+I specialize in creating stunning and efficient digital experiences. I enjoy building things and chipping away at ideas until they come together to create something special.
 </p>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
@@ -20,6 +20,7 @@ I specialize in creating stunning and efficient digital experiences. With a pass
 <p align="center">
   <!-- Backend -->
   <b>Backend:</b><br/>
+ <img src="https://img.shields.io/badge/Statamic-FF269E?style=for-the-badge&logo=statamic&logoColor=white" alt="Statamic Badge"/>
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
