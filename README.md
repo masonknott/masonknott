@@ -3,7 +3,7 @@
 I’m Mason from Manchester UK. I have a background in Computer Science and attended university to study it. I specialise in web development and have experience with front/backend development, databases, CMS management + customisation and other things code related. Most importantly though, I’m pretty good at just chipping away at something until I figure out how to get it working.</p>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
-<p align="center">I love to work with a variety of technologies across the stack to bring ideas to life.</p>
+<p align="center">I love to work with a variety of technologies such as:</p>
 
 <p align="center">
   <!-- Frontend -->
